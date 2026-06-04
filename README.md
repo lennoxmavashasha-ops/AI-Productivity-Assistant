@@ -1,4 +1,4 @@
-# AI-Productivity-Assistant# AI Workplace Productivity Assistant
+ AI Workplace Productivity Assistant
 
 ## Project Overview
 
